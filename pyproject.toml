@@ -1,0 +1,14 @@
+[project]
+name = "coding-agent-workshop-amsterdam-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "openai>=2.32.0",
+    "pydantic-ai>=1.84.1",
+    "python-dotenv>=1.2.2",
+    "python-frontmatter>=1.1.0",
+    "toyaikit>=0.0.9",
+]
