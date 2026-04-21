@@ -1,0 +1,1 @@
+# coding-agent-workshop-amsterdam-2026
